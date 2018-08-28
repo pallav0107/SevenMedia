@@ -1,0 +1,12 @@
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\SevenWestMedia.exe.config
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\SevenWestMedia.exe
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\SevenWestMedia.pdb
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\JsonHelper.dll
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\Newtonsoft.Json.dll
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\JsonHelper.pdb
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\bin\Release\Newtonsoft.Json.xml
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\obj\Release\SevenWestMedia.csprojResolveAssemblyReference.cache
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\obj\Release\SevenWestMedia.csproj.CoreCompileInputs.cache
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\obj\Release\SevenWestMedia.csproj.CopyComplete
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\obj\Release\SevenWestMedia.exe
+C:\Users\ppokhiryal\Desktop\SevenMedia\SevenWestMedia\SevenWestMedia\obj\Release\SevenWestMedia.pdb
